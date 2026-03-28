@@ -1,4 +1,4 @@
-# Coal Trading Games — Statistical Arbitrage in Coal Equities
+# Coal Trading Games - Statistical Arbitrage in Coal Equities
 
 ## Introduction
 
