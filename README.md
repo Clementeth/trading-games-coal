@@ -96,8 +96,6 @@ The Newcastle coal futures dataset contains daily market data (Date, Price, Open
 The analysis is performed on closing prices: Close for equities and proxies, and Price for coal futures.  
 All time series are converted to datetime format, indexed by date, cleaned, and aligned to ensure consistent pairwise comparisons.
 
-The empirical setup focuses on pairs formed between coal futures and each equity, with sector ETFs used as reference benchmarks during the exploratory phase.
-
 ---
 ## Usage
 
